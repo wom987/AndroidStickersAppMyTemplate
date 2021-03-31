@@ -1,0 +1,144 @@
+{
+  "android_play_store_link": "",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "1",
+      "name": "Frases de Amor",
+      "publisher": "Demidevs",
+      "tray_image_file": "Mini.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "wom987@hotmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "TeAmo.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "TeAmo2.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "TeAmo3.webp",
+          "emojis": [
+            "😆",
+            "😂"
+          ]
+        },
+        {
+          "image_file": "TeAmo4.webp",
+          "emojis": [
+            "😩",
+            "😰"
+          ]
+        },
+        {
+          "image_file": "TeAmo5.webp",
+          "emojis": [
+            "😭",
+            "💧"
+          ]
+        },
+        {
+          "image_file": "TeAmo6.webp",
+          "emojis": [
+            "😍",
+            "♥"
+          ]
+        },
+        {
+          "image_file": "TeAmo7.webp",
+          "emojis": [
+            "💔",
+            "👎"
+          ]
+        },
+        {
+          "image_file": "TeAmo8.webp",
+          "emojis": [
+            "😍",
+            "💑"
+          ]
+        }]
+    },
+    {
+      "identifier": "2",
+      "name": "Frases de Amor 2",
+      "publisher": "Demidevs",
+      "tray_image_file": "Mini.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "wom987@hotmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "TeAmo.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "TeAmo2.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "TeAmo3.webp",
+          "emojis": [
+            "😆",
+            "😂"
+          ]
+        },
+        {
+          "image_file": "TeAmo4.webp",
+          "emojis": [
+            "😩",
+            "😰"
+          ]
+        },
+        {
+          "image_file": "TeAmo5.webp",
+          "emojis": [
+            "😭",
+            "💧"
+          ]
+        },
+        {
+          "image_file": "TeAmo6.webp",
+          "emojis": [
+            "😍",
+            "♥"
+          ]
+        },
+        {
+          "image_file": "TeAmo7.webp",
+          "emojis": [
+            "💔",
+            "👎"
+          ]
+        },
+        {
+          "image_file": "TeAmo8.webp",
+          "emojis": [
+            "😍",
+            "💑"
+          ]
+        }]
+    }
+  ]
+}

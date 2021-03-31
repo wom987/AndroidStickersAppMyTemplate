@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "974797776377",
+    "project_id": "frasesapp-1ab15",
+    "storage_bucket": "frasesapp-1ab15.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974797776377:android:b740146ceae15b2a394928",
+        "android_client_info": {
+          "package_name": "com.demidevs.mystickers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "974797776377-uo3491pofpnis7pklt0mlnqvs36dq5ec.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRGJNC6PiLkwr3fONEMrJjBb0nWEAzVxo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "974797776377-uo3491pofpnis7pklt0mlnqvs36dq5ec.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974797776377:android:c46ea28d7f0d4bd2394928",
+        "android_client_info": {
+          "package_name": "com.example.mystickers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "974797776377-uo3491pofpnis7pklt0mlnqvs36dq5ec.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRGJNC6PiLkwr3fONEMrJjBb0nWEAzVxo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "974797776377-uo3491pofpnis7pklt0mlnqvs36dq5ec.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
