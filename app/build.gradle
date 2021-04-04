@@ -9,7 +9,7 @@ android {
     }
     compileSdkVersion 30
     defaultConfig {
-        applicationId "com.demidevs.heartstickers"
+        applicationId "com.demidevs.phrases"
         minSdkVersion 16
         multiDexEnabled true
         targetSdkVersion 30

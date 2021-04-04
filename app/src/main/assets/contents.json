@@ -4,7 +4,189 @@
   "sticker_packs": [
     {
       "identifier": "1",
-      "name": "Corazones anime",
+      "name": "Frases para primas",
+      "publisher": "Demidevs",
+      "tray_image_file": "tray.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "wom987@hotmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "sticker_01.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "sticker_02.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "sticker_03.webp",
+          "emojis": [
+            "😆",
+            "😂"
+          ]
+        },
+        {
+          "image_file": "sticker_04.webp",
+          "emojis": [
+            "😩",
+            "😰"
+          ]
+        },
+        {
+          "image_file": "sticker_05.webp",
+          "emojis": [
+            "😭",
+            "💧"
+          ]
+        },
+        {
+          "image_file": "sticker_06.webp",
+          "emojis": [
+            "😍",
+            "♥"
+          ]
+        },
+        {
+          "image_file": "sticker_07.webp",
+          "emojis": [
+            "💔",
+            "👎"
+          ]
+        },
+        {
+          "image_file": "sticker_08.webp",
+          "emojis": [
+            "😍",
+            "💑"
+          ]
+        },
+        {
+          "image_file": "sticker_09.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "sticker_10.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "sticker_11.webp",
+          "emojis": [
+            "😆",
+            "😂"
+          ]
+        },
+        {
+          "image_file": "sticker_12.webp",
+          "emojis": [
+            "😩",
+            "😰"
+          ]
+        },
+        {
+          "image_file": "sticker_13.webp",
+          "emojis": [
+            "😭",
+            "💧"
+          ]
+        },
+        {
+          "image_file": "sticker_14.webp",
+          "emojis": [
+            "😍",
+            "♥"
+          ]
+        },
+        {
+          "image_file": "sticker_15.webp",
+          "emojis": [
+            "💔",
+            "👎"
+          ]
+        },
+        {
+          "image_file": "sticker_16.webp",
+          "emojis": [
+            "😍",
+            "💑"
+          ]
+        },
+        {
+          "image_file": "sticker_17.webp",
+          "emojis": [
+            "😩",
+            "😰"
+          ]
+        },
+        {
+          "image_file": "sticker_18.webp",
+          "emojis": [
+            "😭",
+            "💧"
+          ]
+        },
+        {
+          "image_file": "sticker_19.webp",
+          "emojis": [
+            "😍",
+            "♥"
+          ]
+        },
+        {
+          "image_file": "sticker_20.webp",
+          "emojis": [
+            "💔",
+            "👎"
+          ]
+        },
+        {
+          "image_file": "sticker_21.webp",
+          "emojis": [
+            "😍",
+            "💑"
+          ]
+        },
+        {
+          "image_file": "sticker_22.webp",
+          "emojis": [
+            "😡",
+            "😤"
+          ]
+        },
+        {
+          "image_file": "sticker_23.webp",
+          "emojis": [
+            "😩",
+            "😨"
+          ]
+        },
+        {
+          "image_file": "sticker_24.webp",
+          "emojis": [
+            "😩",
+            "😨"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "2",
+      "name": "MOTIVACIÓN AL 100",
       "publisher": "Demidevs",
       "tray_image_file": "tray.png",
       "image_data_version": "1",
@@ -227,162 +409,8 @@
       ]
     },
     {
-      "identifier": "2",
-      "name": "Corazones con flores",
-      "publisher": "Demidevs",
-      "tray_image_file": "tray.png",
-      "image_data_version": "1",
-      "avoid_cache": false,
-      "publisher_email": "wom987@hotmail.com",
-      "publisher_website": "",
-      "privacy_policy_website": "",
-      "license_agreement_website": "",
-      "stickers": [
-        {
-          "image_file": "sticker_01.webp",
-          "emojis": [
-            "☕",
-            "🙂"
-          ]
-        },
-        {
-          "image_file": "sticker_02.webp",
-          "emojis": [
-            "😄",
-            "😀"
-          ]
-        },
-        {
-          "image_file": "sticker_03.webp",
-          "emojis": [
-            "😆",
-            "😂"
-          ]
-        },
-        {
-          "image_file": "sticker_04.webp",
-          "emojis": [
-            "😩",
-            "😰"
-          ]
-        },
-        {
-          "image_file": "sticker_05.webp",
-          "emojis": [
-            "😭",
-            "💧"
-          ]
-        },
-        {
-          "image_file": "sticker_06.webp",
-          "emojis": [
-            "😍",
-            "♥"
-          ]
-        },
-        {
-          "image_file": "sticker_07.webp",
-          "emojis": [
-            "💔",
-            "👎"
-          ]
-        },
-        {
-          "image_file": "sticker_08.webp",
-          "emojis": [
-            "😍",
-            "💑"
-          ]
-        },
-        {
-          "image_file": "sticker_09.webp",
-          "emojis": [
-            "☕",
-            "🙂"
-          ]
-        },
-        {
-          "image_file": "sticker_10.webp",
-          "emojis": [
-            "😄",
-            "😀"
-          ]
-        },
-        {
-          "image_file": "sticker_11.webp",
-          "emojis": [
-            "😆",
-            "😂"
-          ]
-        },
-        {
-          "image_file": "sticker_12.webp",
-          "emojis": [
-            "😩",
-            "😰"
-          ]
-        },
-        {
-          "image_file": "sticker_13.webp",
-          "emojis": [
-            "😭",
-            "💧"
-          ]
-        },
-        {
-          "image_file": "sticker_14.webp",
-          "emojis": [
-            "😍",
-            "♥"
-          ]
-        },
-        {
-          "image_file": "sticker_15.webp",
-          "emojis": [
-            "💔",
-            "👎"
-          ]
-        },
-        {
-          "image_file": "sticker_16.webp",
-          "emojis": [
-            "😍",
-            "💑"
-          ]
-        },
-        {
-          "image_file": "sticker_17.webp",
-          "emojis": [
-            "😩",
-            "😰"
-          ]
-        },
-        {
-          "image_file": "sticker_18.webp",
-          "emojis": [
-            "😭",
-            "💧"
-          ]
-        },
-        {
-          "image_file": "sticker_19.webp",
-          "emojis": [
-            "😍",
-            "♥"
-          ]
-        },
-        {
-          "image_file": "sticker_20.webp",
-          "emojis": [
-            "💔",
-            "👎"
-          ]
-        }
-      ]
-    },
-    {
       "identifier": "3",
-      "name": "Corazones varios",
+      "name": "Motivacionales.",
       "publisher": "Demidevs",
       "tray_image_file": "tray.png",
       "image_data_version": "1",
@@ -606,7 +634,7 @@
     },
     {
       "identifier": "4",
-      "name": "Palabras con corazones",
+      "name": "Paletitas",
       "publisher": "Demidevs",
       "tray_image_file": "tray.png",
       "image_data_version": "1",
@@ -780,50 +808,50 @@
         {
           "image_file": "sticker_24.webp",
           "emojis": [
-            "💻",
-            "🌃"
+            "😩",
+            "😨"
           ]
         },
         {
           "image_file": "sticker_25.webp",
           "emojis": [
-            "🎉",
-            "✨"
+            "😩",
+            "😨"
           ]
         },
         {
           "image_file": "sticker_26.webp",
           "emojis": [
-            "🤮",
-            "👎"
+            "😩",
+            "😨"
           ]
         },
         {
           "image_file": "sticker_27.webp",
           "emojis": [
-            "🖐",
-            "🙋"
+            "😩",
+            "😨"
           ]
         },
         {
           "image_file": "sticker_28.webp",
           "emojis": [
-            "🖐",
-            "👋"
+            "😩",
+            "😨"
           ]
         },
         {
           "image_file": "sticker_29.webp",
           "emojis": [
-            "🍵",
-            "😌"
+            "😩",
+            "😨"
           ]
         },
         {
           "image_file": "sticker_30.webp",
           "emojis": [
-            "📱",
-            "😦"
+            "😩",
+            "😨"
           ]
         }
       ]
@@ -1004,50 +1032,50 @@
         {
           "image_file": "sticker_24.webp",
           "emojis": [
-            "💻",
-            "🌃"
+            "😩",
+            "😨"
           ]
         },
         {
           "image_file": "sticker_25.webp",
           "emojis": [
-            "🎉",
-            "✨"
+            "😩",
+            "😨"
           ]
         },
         {
           "image_file": "sticker_26.webp",
           "emojis": [
-            "🤮",
-            "👎"
+            "😩",
+            "😨"
           ]
         },
         {
           "image_file": "sticker_27.webp",
           "emojis": [
-            "🖐",
-            "🙋"
+            "😩",
+            "😨"
           ]
         },
         {
           "image_file": "sticker_28.webp",
           "emojis": [
-            "🖐",
-            "👋"
+            "😩",
+            "😨"
           ]
         },
         {
           "image_file": "sticker_29.webp",
           "emojis": [
-            "🍵",
-            "😌"
+            "😩",
+            "😨"
           ]
         },
         {
           "image_file": "sticker_30.webp",
           "emojis": [
-            "📱",
-            "😦"
+            "😩",
+            "😨"
           ]
         }
       ]
@@ -1228,50 +1256,50 @@
         {
           "image_file": "sticker_24.webp",
           "emojis": [
-            "💻",
-            "🌃"
+            "😩",
+            "😨"
           ]
         },
         {
           "image_file": "sticker_25.webp",
           "emojis": [
-            "🎉",
-            "✨"
+            "😩",
+            "😨"
           ]
         },
         {
           "image_file": "sticker_26.webp",
           "emojis": [
-            "🤮",
-            "👎"
+            "😩",
+            "😨"
           ]
         },
         {
           "image_file": "sticker_27.webp",
           "emojis": [
-            "🖐",
-            "🙋"
+            "😩",
+            "😨"
           ]
         },
         {
           "image_file": "sticker_28.webp",
           "emojis": [
-            "🖐",
-            "👋"
+            "😩",
+            "😨"
           ]
         },
         {
           "image_file": "sticker_29.webp",
           "emojis": [
-            "🍵",
-            "😌"
+            "😩",
+            "😨"
           ]
         },
         {
           "image_file": "sticker_30.webp",
           "emojis": [
-            "📱",
-            "😦"
+            "😩",
+            "😨"
           ]
         }
       ]
@@ -1427,6 +1455,76 @@
             "💔",
             "👎"
           ]
+        },
+        {
+          "image_file": "sticker_21.webp",
+          "emojis": [
+            "😍",
+            "💑"
+          ]
+        },
+        {
+          "image_file": "sticker_22.webp",
+          "emojis": [
+            "😡",
+            "😤"
+          ]
+        },
+        {
+          "image_file": "sticker_23.webp",
+          "emojis": [
+            "😩",
+            "😨"
+          ]
+        },
+        {
+          "image_file": "sticker_24.webp",
+          "emojis": [
+            "😩",
+            "😨"
+          ]
+        },
+        {
+          "image_file": "sticker_25.webp",
+          "emojis": [
+            "😩",
+            "😨"
+          ]
+        },
+        {
+          "image_file": "sticker_26.webp",
+          "emojis": [
+            "😩",
+            "😨"
+          ]
+        },
+        {
+          "image_file": "sticker_27.webp",
+          "emojis": [
+            "😩",
+            "😨"
+          ]
+        },
+        {
+          "image_file": "sticker_28.webp",
+          "emojis": [
+            "😩",
+            "😨"
+          ]
+        },
+        {
+          "image_file": "sticker_29.webp",
+          "emojis": [
+            "😩",
+            "😨"
+          ]
+        },
+        {
+          "image_file": "sticker_30.webp",
+          "emojis": [
+            "😩",
+            "😨"
+          ]
         }
       ]
     },
@@ -1478,6 +1576,20 @@
           ]
         },
         {
+          "image_file": "sticker_06.webp",
+          "emojis": [
+            "😍",
+            "♥"
+          ]
+        },
+        {
+          "image_file": "sticker_07.webp",
+          "emojis": [
+            "💔",
+            "👎"
+          ]
+        },
+        {
           "image_file": "sticker_08.webp",
           "emojis": [
             "😍",
@@ -1496,6 +1608,146 @@
           "emojis": [
             "😄",
             "😀"
+          ]
+        },
+        {
+          "image_file": "sticker_11.webp",
+          "emojis": [
+            "😆",
+            "😂"
+          ]
+        },
+        {
+          "image_file": "sticker_12.webp",
+          "emojis": [
+            "😩",
+            "😰"
+          ]
+        },
+        {
+          "image_file": "sticker_13.webp",
+          "emojis": [
+            "😭",
+            "💧"
+          ]
+        },
+        {
+          "image_file": "sticker_14.webp",
+          "emojis": [
+            "😍",
+            "♥"
+          ]
+        },
+        {
+          "image_file": "sticker_15.webp",
+          "emojis": [
+            "💔",
+            "👎"
+          ]
+        },
+        {
+          "image_file": "sticker_16.webp",
+          "emojis": [
+            "😍",
+            "💑"
+          ]
+        },
+        {
+          "image_file": "sticker_17.webp",
+          "emojis": [
+            "😩",
+            "😰"
+          ]
+        },
+        {
+          "image_file": "sticker_18.webp",
+          "emojis": [
+            "😭",
+            "💧"
+          ]
+        },
+        {
+          "image_file": "sticker_19.webp",
+          "emojis": [
+            "😍",
+            "♥"
+          ]
+        },
+        {
+          "image_file": "sticker_20.webp",
+          "emojis": [
+            "💔",
+            "👎"
+          ]
+        },
+        {
+          "image_file": "sticker_21.webp",
+          "emojis": [
+            "😍",
+            "💑"
+          ]
+        },
+        {
+          "image_file": "sticker_22.webp",
+          "emojis": [
+            "😡",
+            "😤"
+          ]
+        },
+        {
+          "image_file": "sticker_23.webp",
+          "emojis": [
+            "😩",
+            "😨"
+          ]
+        },
+        {
+          "image_file": "sticker_24.webp",
+          "emojis": [
+            "😩",
+            "😨"
+          ]
+        },
+        {
+          "image_file": "sticker_25.webp",
+          "emojis": [
+            "😩",
+            "😨"
+          ]
+        },
+        {
+          "image_file": "sticker_26.webp",
+          "emojis": [
+            "😩",
+            "😨"
+          ]
+        },
+        {
+          "image_file": "sticker_27.webp",
+          "emojis": [
+            "😩",
+            "😨"
+          ]
+        },
+        {
+          "image_file": "sticker_28.webp",
+          "emojis": [
+            "😩",
+            "😨"
+          ]
+        },
+        {
+          "image_file": "sticker_29.webp",
+          "emojis": [
+            "😩",
+            "😨"
+          ]
+        },
+        {
+          "image_file": "sticker_30.webp",
+          "emojis": [
+            "😩",
+            "😨"
           ]
         }
       ]
@@ -1676,50 +1928,50 @@
         {
           "image_file": "sticker_24.webp",
           "emojis": [
-            "💻",
-            "🌃"
+            "😩",
+            "😨"
           ]
         },
         {
           "image_file": "sticker_25.webp",
           "emojis": [
-            "🎉",
-            "✨"
+            "😩",
+            "😨"
           ]
         },
         {
           "image_file": "sticker_26.webp",
           "emojis": [
-            "🤮",
-            "👎"
+            "😩",
+            "😨"
           ]
         },
         {
           "image_file": "sticker_27.webp",
           "emojis": [
-            "🖐",
-            "🙋"
+            "😩",
+            "😨"
           ]
         },
         {
           "image_file": "sticker_28.webp",
           "emojis": [
-            "🖐",
-            "👋"
+            "😩",
+            "😨"
           ]
         },
         {
           "image_file": "sticker_29.webp",
           "emojis": [
-            "🍵",
-            "😌"
+            "😩",
+            "😨"
           ]
         },
         {
           "image_file": "sticker_30.webp",
           "emojis": [
-            "📱",
-            "😦"
+            "😩",
+            "😨"
           ]
         }
       ]
@@ -1874,6 +2126,76 @@
           "emojis": [
             "💔",
             "👎"
+          ]
+        },
+        {
+          "image_file": "sticker_21.webp",
+          "emojis": [
+            "😍",
+            "💑"
+          ]
+        },
+        {
+          "image_file": "sticker_22.webp",
+          "emojis": [
+            "😡",
+            "😤"
+          ]
+        },
+        {
+          "image_file": "sticker_23.webp",
+          "emojis": [
+            "😩",
+            "😨"
+          ]
+        },
+        {
+          "image_file": "sticker_24.webp",
+          "emojis": [
+            "😩",
+            "😨"
+          ]
+        },
+        {
+          "image_file": "sticker_25.webp",
+          "emojis": [
+            "😩",
+            "😨"
+          ]
+        },
+        {
+          "image_file": "sticker_26.webp",
+          "emojis": [
+            "😩",
+            "😨"
+          ]
+        },
+        {
+          "image_file": "sticker_27.webp",
+          "emojis": [
+            "😩",
+            "😨"
+          ]
+        },
+        {
+          "image_file": "sticker_28.webp",
+          "emojis": [
+            "😩",
+            "😨"
+          ]
+        },
+        {
+          "image_file": "sticker_29.webp",
+          "emojis": [
+            "😩",
+            "😨"
+          ]
+        },
+        {
+          "image_file": "sticker_30.webp",
+          "emojis": [
+            "😩",
+            "😨"
           ]
         }
       ]
